@@ -15,7 +15,7 @@ devtools::install_github("world-inequality-database/gpinter")
 
 ## Documentation
 
-For the explanations of how the package works, please see the [package's vignette](https://thomasblanchet.fr/wp-content/uploads/2020/04/gpinter-vignette.pdf) and the documentation of each individual function by typing `?function_name` in the R console.
+For the explanations of how the package works, please see the [package's vignette]([https://thomasblanchet.fr/wp-content/uploads/2020/04/gpinter-vignette.pdf](https://github.com/world-inequality-database/gpinter/blob/master/vignettes/gpinter.pdf)) and the documentation of each individual function by typing `?function_name` in the R console.
 
 ## Note for Stata users
 
